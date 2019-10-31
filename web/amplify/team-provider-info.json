@@ -1,0 +1,19 @@
+{
+    "spp": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-spp-notify-system-spp-23459-authRole",
+            "UnauthRoleArn": "arn:aws:iam::145300226512:role/amplify-spp-notify-system-spp-23459-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::145300226512:role/amplify-spp-notify-system-spp-23459-authRole",
+            "Region": "eu-central-1",
+            "DeploymentBucketName": "amplify-spp-notify-system-spp-23459-deployment",
+            "UnauthRoleName": "amplify-spp-notify-system-spp-23459-unauthRole",
+            "StackName": "amplify-spp-notify-system-spp-23459",
+            "StackId": "arn:aws:cloudformation:eu-central-1:145300226512:stack/amplify-spp-notify-system-spp-23459/08e80190-fb87-11e9-8190-02b8022d5b40"
+        },
+        "categories": {
+            "auth": {
+                "sppnotifysystem7ecb6a94": {}
+            }
+        }
+    }
+}

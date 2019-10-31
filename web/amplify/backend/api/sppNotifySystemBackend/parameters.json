@@ -1,0 +1,11 @@
+{
+    "AppSyncApiName": "sppNotifySystemBackend",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": "false",
+    "AuthCognitoUserPoolId": {
+        "Fn::GetAtt": [
+            "authsppnotifysystem7ecb6a94",
+            "Outputs.UserPoolId"
+        ]
+    }
+}
